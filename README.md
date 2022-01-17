@@ -1,0 +1,1 @@
+# It is the notes I took about the MIT course Linear Algebra by Prof Gibert Strang
